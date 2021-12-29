@@ -24,3 +24,4 @@ else if ( randomNumber2 > randomNumber1){
   document.querySelector("h1").innerHTML = "LADO DIREITO GANHOU!!";
 }else
 document.querySelector("h1").innerHTML = "EMPATOU";
+
